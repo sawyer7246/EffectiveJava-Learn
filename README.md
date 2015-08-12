@@ -1,2 +1,2 @@
 # EffectiveJava-Learn
-Personal notes about the book Effective Java
+Personal notes of the book *Effective Java*
